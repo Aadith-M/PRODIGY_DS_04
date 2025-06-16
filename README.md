@@ -13,9 +13,15 @@ The <a href = "https://github.com/Aadith-M/PRODIGY_DS_04/blob/main/twitter_valid
 
 ## Conclusion
 
-The sentiment analysis provides valuable insights into prevailing attitudes and opinions within the Twitter community regarding various topics. While negative sentiments appear to be more common overall, there is a diverse range of sentiments expressed across different topics. Understanding these sentiment trends can inform decision-making processes, marketing strategies, and community engagement efforts in both online and offline contexts.
-<br>
-<img src = "https://github.com/Aadith-M/PRODIGY_DS_04/blob/main/heat.png">
+● The project helped analyze sentiments in tweets related to different brands. 
+● Tweets were cleaned, processed, and classified into sentiment categories. 
+●  The model could classify sentiments effectively using TextBlob 
+● The models accurately predicted the sentiment of tweets. 
+● Majority of tweets were Neutral or Negative, with fewer Positives. 
+● This analysis can help companies understand public opinion better. 
+● It also supports making smarter decisions in marketing and brand management. 
+●  The approach is simple yet gives an insight into public sentiment trends using 
+lightweight NLP tools
 <br>
 Thank you for reviewing my internship task submission!
 
